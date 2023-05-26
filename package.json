@@ -1,0 +1,19 @@
+{
+  "name": "ehtasham_chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "ngrok": "^5.0.0-beta.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
